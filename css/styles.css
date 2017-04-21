@@ -12,7 +12,9 @@ h1{
   font-weight: bold;
   font-family: cursive;
   float: right;
-  color: blue;
+  color: white;
+  margin-top: 40px;
+  margin-right: 50px;
 }
 .quo{
   font-family: fantasy;
@@ -46,6 +48,9 @@ h1{
 .panel-hob{
   font-family: cursive;
   text-align: center;
+}
+a{
+  color: blue;
 }
 
 li{
