@@ -1,0 +1,31 @@
+img{
+  float: right;
+  align-self: auto;
+}
+
+body{
+  font-family: sans-serif;;
+  font-size: 20px;
+  background-color: black;
+}
+.panel-projects{
+  font-family: cursive;
+  text-align: center;
+}
+.panel-about{
+  font-family: cursive;
+  text-align: center;
+}
+.panel-back{
+  font-family: cursive;
+  text-align: center;
+}
+.panel-hob{
+  font-family: cursive;
+  text-align: center;
+
+}
+.quo{
+  font-family: fantasy;
+  font-size: 25px;
+}
