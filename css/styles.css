@@ -4,13 +4,15 @@ body{
   background-color: black;
 }
 img{
-  float: right;
+  float: left;
 
 }
 h1{
   font-size: 48px;
   font-weight: bold;
   font-family: cursive;
+  float: right;
+  color: blue;
 }
 .quo{
   font-family: fantasy;
@@ -19,6 +21,8 @@ h1{
  blockquote{
    padding-top: 40px;
    color: grey;
+   background-color: skyblue;
+   float: right
 }
 .panel-top{
 
@@ -31,6 +35,10 @@ h1{
   font-family: cursive;
   text-align: center;
 }
+.ultra{
+  font-style: italic;
+  font-size: 14px;
+}
 .panel-back{
   font-family: cursive;
   text-align: center;
@@ -38,4 +46,9 @@ h1{
 .panel-hob{
   font-family: cursive;
   text-align: center;
+}
+
+li{
+  font-style: italic;
+  font-size: 18px;
 }
