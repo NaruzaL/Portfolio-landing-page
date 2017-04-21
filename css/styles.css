@@ -1,12 +1,27 @@
-img{
-  float: right;
-  align-self: auto;
-}
-
 body{
   font-family: sans-serif;;
   font-size: 20px;
   background-color: black;
+}
+img{
+  float: right;
+
+}
+h1{
+  font-size: 48px;
+  font-weight: bold;
+  font-family: cursive;
+}
+.quo{
+  font-family: fantasy;
+  font-size: 25px;
+}
+ blockquote{
+   padding-top: 40px;
+   color: grey;
+}
+.panel-top{
+
 }
 .panel-projects{
   font-family: cursive;
@@ -23,9 +38,4 @@ body{
 .panel-hob{
   font-family: cursive;
   text-align: center;
-
-}
-.quo{
-  font-family: fantasy;
-  font-size: 25px;
 }
